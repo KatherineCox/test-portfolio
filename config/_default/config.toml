@@ -17,4 +17,3 @@ enableRobotsTXT = true
 pygmentsUseClasses = true
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
-
